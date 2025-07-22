@@ -40,14 +40,10 @@ codex-openai/
    ```bash
    git clone https://github.com/tuo-utente/codex-openai.git
    cd codex-openai
-
-Avvia un server locale:
-
-bash
-Copy
-Edit
-npx serve .
-Apri il gioco su http://localhost:3000
+   # Avvia un server locale
+   npx serve .
+   # Ora apri il gioco su http://localhost:3000
+   ```
 
 📄 Licenza
 Questo progetto è distribuito sotto licenza MIT. Vedi LICENSE.md per maggiori dettagli.
